@@ -1,5 +1,3 @@
-[![.github/workflows/main.yml](https://github.com/pushpakumaragayan/mggpkwelagedara-RCD-MD/actions/workflows/main.yml/badge.svg)](https://github.com/pushpakumaragayan/mggpkwelagedara-RCD-MD/actions/workflows/main.yml)
-
 name: Node.js CI
 
 on:
